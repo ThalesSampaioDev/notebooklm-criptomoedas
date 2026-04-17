@@ -1,2 +1,11 @@
-# NotebookLM - CryptoMoedas
-Trabalho focado em aprendizado sobre NotebookLM ( Google ) com base em desenvolver novos projetos. web.dio.me responsável pelo projeto.
+# Caderno Temático com NotebookLM
+
+## Tema Escolhido
+Criptomoedas e Blockchain
+
+## Objetivos de Estudo
+- Entender o que são criptomoedas
+- Aprender como funciona blockchain
+- Conhecer as principais criptomoedas
+- Entender os riscos e vantagens desse mercado
+- Aprender a diferença entre corretoras, carteiras e mineração
